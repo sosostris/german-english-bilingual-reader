@@ -1,0 +1,53 @@
+{
+    "page_number": 5,
+    "paragraphs": [
+      {
+        "paragraph_id": 1,
+        "sentences": [
+          {
+            "sentence_id": 1,
+            "text": "Und fragst du noch, warum dein Herz\nSich bang in deinem Busen klemmt?\n",
+            "type": "dialogue",
+            "speaker": "FAUST"
+          },
+          {
+            "sentence_id": 2,
+            "text": "Warum ein unerklärter Schmerz\nDir alle Lebensregung hemmt?\n",
+            "type": "dialogue",
+            "speaker": "FAUST"
+          },
+          {
+            "sentence_id": 3,
+            "text": "Statt der lebendigen Natur,\nDa Gott die Menschen schuf hinein,\nUmgibt in Rauch und Moder nur\nDich Tiergeripp und Totenbein.\n",
+            "type": "dialogue",
+            "speaker": "FAUST"
+          },
+          {
+            "sentence_id": 4,
+            "text": "Flieh! auf! hinaus ins weite Land!\n",
+            "type": "dialogue",
+            "speaker": "FAUST"
+          },
+          {
+            "sentence_id": 5,
+            "text": "Und dies geheimnisvolle Buch,\nVon Nostradamus' eigner Hand,\nIst dir es nicht Geleit genug?\n",
+            "type": "dialogue",
+            "speaker": "FAUST"
+          },
+          {
+            "sentence_id": 6,
+            "text": "Erkennest dann der Sterne Lauf,\nUnd wenn Natur dich Unterweist,\nDann geht die Seelenkraft dir auf,\nWie spricht ein Geist zum andren Geist.\n",
+            "type": "dialogue",
+            "speaker": "FAUST"
+          },
+          {
+            "sentence_id": 7,
+            "text": "Umsonst, daß trocknes Sinnen hier\nDie heil'gen Zeichen dir erklärt:\nIhr schwebt, ihr Geister, neben mir;\nAntwortet mir, wenn ihr mich hört!",
+            "type": "dialogue",
+            "speaker": "FAUST"
+          }
+        ]
+      }
+    ]
+  }
+  

@@ -1,0 +1,29 @@
+{
+    "page_number": 3,
+    "paragraphs": [
+      {
+        "paragraph_id": 1,
+        "sentences": [
+          {
+            "sentence_id": 1,
+            "text": "O sähst du, voller Mondenschein,\nZum letzenmal auf meine Pein,\nDen ich so manche Mitternacht\nAn diesem Pult herangewacht:\n",
+            "type": "dialogue",
+            "speaker": "FAUST"
+          },
+          {
+            "sentence_id": 2,
+            "text": "Dann über Büchern und Papier,\nTrübsel'ger Freund, erschienst du mir!\n",
+            "type": "dialogue",
+            "speaker": "FAUST"
+          },
+          {
+            "sentence_id": 3,
+            "text": "Ach! könnt ich doch auf Bergeshöhn\nIn deinem lieben Lichte gehn,\nUm Bergeshöhle mit Geistern schweben,\nAuf Wiesen in deinem Dämmer weben,\nVon allem Wissensqualm entladen,\nIn deinem Tau gesund mich baden!",
+            "type": "dialogue",
+            "speaker": "FAUST"
+          }
+        ]
+      }
+    ]
+  }
+  

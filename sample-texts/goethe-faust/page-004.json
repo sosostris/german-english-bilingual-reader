@@ -1,0 +1,41 @@
+{
+    "page_number": 4,
+    "paragraphs": [
+      {
+        "paragraph_id": 1,
+        "sentences": [
+          {
+            "sentence_id": 1,
+            "text": "Weh! steck ich in dem Kerker noch?\n",
+            "type": "dialogue",
+            "speaker": "FAUST"
+          },
+          {
+            "sentence_id": 2,
+            "text": "Verfluchtes dumpfes Mauerloch,\nWo selbst das liebe Himmelslicht\nTrüb durch gemalte Scheiben bricht!\n",
+            "type": "dialogue",
+            "speaker": "FAUST"
+          },
+          {
+            "sentence_id": 3,
+            "text": "Verfluchtes dumpfes Mauerloch,\nWo selbst das liebe Himmelslicht\nTrüb durch gemalte Scheiben bricht!\n",
+            "type": "dialogue",
+            "speaker": "FAUST"
+          },
+          {
+            "sentence_id": 4,
+            "text": "Beschränkt mit diesem Bücherhauf,\nden Würme nagen, Staub bedeckt,\nDen bis ans hohe Gewölb hinauf\nEin angeraucht Papier umsteckt;\n",
+            "type": "dialogue",
+            "speaker": "FAUST"
+          },
+          {
+            "sentence_id": 5,
+            "text": "Mit Gläsern, Büchsen rings umstellt,\nMit Instrumenten vollgepfropft,\nUrväter Hausrat drein gestopft –\nDas ist deine Welt! das heißt eine Welt!",
+            "type": "dialogue",
+            "speaker": "FAUST"
+          }
+        ]
+      }
+    ]
+  }
+  

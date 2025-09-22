@@ -1,0 +1,53 @@
+{
+    "page_number": 2,
+    "paragraphs": [
+      {
+        "paragraph_id": 1,
+        "sentences": [
+          {
+            "sentence_id": 1,
+            "text": "Zwar bin ich gescheiter als all die Laffen,\nDoktoren, Magister, Schreiber und Pfaffen;\n",
+            "type": "dialogue",
+            "speaker": "FAUST"
+          },
+          {
+            "sentence_id": 2,
+            "text": "Mich plagen keine Skrupel noch Zweifel,\nFürchte mich weder vor Hölle noch Teufel –\n",
+            "type": "dialogue",
+            "speaker": "FAUST"
+          },
+          {
+            "sentence_id": 3,
+            "text": "Dafür ist mir auch alle Freud entrissen,\nBilde mir nicht ein, was Rechts zu wissen,\nBilde mir nicht ein, ich könnte was lehren,\nDie Menschen zu bessern und zu bekehren.\n",
+            "type": "dialogue",
+            "speaker": "FAUST"
+          },
+          {
+            "sentence_id": 4,
+            "text": "Auch hab ich weder Gut noch Geld,\nNoch Ehr und Herrlichkeit der Welt;\nEs möchte kein Hund so länger leben!\n",
+            "type": "dialogue",
+            "speaker": "FAUST"
+          },
+          {
+            "sentence_id": 5,
+            "text": "Drum hab ich mich der Magie ergeben,\nOb mir durch Geistes Kraft und Mund\nNicht manch Geheimnis würde kund;\n",
+            "type": "dialogue",
+            "speaker": "FAUST"
+          },
+          {
+            "sentence_id": 6,
+            "text": "Daß ich nicht mehr mit saurem Schweiß\nZu sagen brauche, was ich nicht weiß;\n",
+            "type": "dialogue",
+            "speaker": "FAUST"
+          },
+          {
+            "sentence_id": 7,
+            "text": "Daß ich erkenne, was die Welt\nIm Innersten zusammenhält,\nSchau alle Wirkenskraft und Samen,\nUnd tu nicht mehr in Worten kramen.",
+            "type": "dialogue",
+            "speaker": "FAUST"
+          }
+        ]
+      }
+    ]
+  }
+  
