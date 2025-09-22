@@ -47,6 +47,8 @@ npm start
 
 The app will be available at `http://localhost:3000` with the backend running on `http://localhost:5001`.
 
+Use `lsof -ti:3000 | xargs kill -9` and `lsof -ti:5001 | xargs kill -9` to clean up the ports when necessary.
+
 ## Configuration
 
 Set up your API keys in `backend/.env`:
