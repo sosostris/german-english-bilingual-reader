@@ -66,6 +66,7 @@
 }
 
 .current-book-title {
+  max-width: 150px;
   font-family: var(--font-serif);
   font-size: 1.125rem;
   font-weight: 600;
@@ -76,6 +77,11 @@
 }
 
 .text-select {
+  min-width: 100px;
+  max-width: 150px;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
   padding: 0.5rem 0.75rem;
   border: 1px solid rgba(255, 255, 255, 0.2);
   border-radius: 0.25rem;
@@ -84,7 +90,6 @@
   font-size: 0.8125rem;
   font-weight: 400;
   font-family: var(--font-sans);
-  min-width: 160px;
   height: 2rem;
   cursor: pointer;
   transition: all 0.2s ease-out;
