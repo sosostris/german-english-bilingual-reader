@@ -1,0 +1,56 @@
+{
+  "page_number": 1,
+  "paragraphs": [
+    {
+      "paragraph_id": 1,
+      "sentences": [
+        {
+          "sentence_id": 1,
+          "text": "Als Gregor Samsa eines Morgens aus unruhigen Träumen erwachte, fand er sich in seinem Bett zu einem ungeheueren Ungeziefer verwandelt.",
+          "type": "narration"
+        },
+        {
+          "sentence_id": 2,
+          "text": "Er lag auf seinem panzerartig harten Rücken und sah, wenn er den Kopf ein wenig hob, seinen gewölbten, braunen, von bogenförmigen Versteifungen geteilten Bauch, auf dessen Höhe sich die Bettdecke, zum gänzlichen Niedergleiten bereit, kaum noch erhalten konnte.",
+          "type": "narration"
+        },
+        {
+          "sentence_id": 3,
+          "text": "Seine vielen, im Vergleich zu seinem sonstigen Umfang kläglich dünnen Beine flimmerten ihm hilflos vor den Augen.",
+          "type": "narration"
+        }
+      ]
+    },
+    {
+      "paragraph_id": 2,
+      "sentences": [
+        {
+          "sentence_id": 1,
+          "text": "»Was ist mit mir geschehen?«, dachte er.",
+          "type": "dialogue",
+          "speaker": "Gregor"
+        },
+        {
+          "sentence_id": 2,
+          "text": "Es war kein Traum.",
+          "type": "narration"
+        },
+        {
+          "sentence_id": 3,
+          "text": "Sein Zimmer, ein richtiges, nur etwas zu kleines Menschenzimmer, lag ruhig zwischen den vier wohlbekannten Wänden.",
+          "type": "narration"
+        },
+        {
+          "sentence_id": 4,
+          "text": "Über dem Tisch, auf dem eine auseinandergepackte Musterkollektion von Tuchwaren ausgebreitet war – Samsa war Reisender –, hing das Bild, das er vor kurzem aus einer illustrierten Zeitschrift ausgeschnitten und in einem hübschen, vergoldeten Rahmen untergebracht hatte.",
+          "type": "narration"
+        },
+        {
+          "sentence_id": 5,
+          "text": "Es stellte eine Dame dar, die, mit einem Pelzhut und einer Pelzboa versehen, aufrecht dasaß und einen schweren Pelzmuff, in dem ihr ganzer Unterarm verschwunden war, dem Beschauer entgegenhob.",
+          "type": "narration"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+/* Prose-specific translation elements */
+.prose-paragraph {
+  margin-bottom: 1.5rem;
+  text-align: justify;
+  text-indent: 2rem;
+}
+
+.prose-paragraph.first-paragraph {
+  text-indent: 0; /* First paragraph after title doesn't indent */
+}
+
+/* Responsive design */
+@media (max-width: 1024px) {
+  .prose-translation-section .translation-display {
+    font-size: 1.0625rem;
+    line-height: 1.8;
+  }
+}
+
+@media (max-width: 768px) {
+  .prose-translation-section {
+    padding: 1rem;
+  }
+  
+  .prose-translation-section .translation-display {
+    font-size: 1rem;
+    line-height: 1.7;
+  }
+  
+  .prose-translation-paragraph {
+    margin-bottom: 1.25rem;
+  }
+}
+
+@media (max-width: 480px) {
+  .prose-translation-section .translation-display {
+    font-size: 0.9375rem;
+    line-height: 1.6;
+  }
+  
+  .prose-translation-paragraph {
+    margin-bottom: 1.125rem;
+  }
+}

@@ -1,0 +1,115 @@
+.drama-translation-section .translation-display {
+  line-height: 1.8;
+  color: var(--reading-text);
+  hyphens: auto;
+  word-wrap: break-word;
+}
+
+/* Drama-specific translation elements */
+.drama-translation-paragraph {
+  margin-bottom: 1rem;
+}
+
+.drama-translation-sentence {
+  cursor: pointer;
+  transition: all 0.2s ease;
+  border-radius: 4px;
+}
+
+.drama-translation-sentence:hover {
+  background-color: var(--highlight-hover);
+}
+
+
+/* Stage directions in drama translation */
+.drama-translation-section .stage-direction {
+  font-style: italic;
+  color: var(--stage-direction-color);
+  text-align: left;
+  margin: 1rem 0;
+  font-size: 0.9em;
+  cursor: pointer;
+  transition: all 0.2s ease;
+  border-radius: 4px;
+  padding: 0.5rem;
+}
+
+.drama-translation-section .stage-direction:hover {
+  background-color: var(--highlight-hover);
+}
+
+.drama-translation-section .stage-direction.highlighted {
+  background-color: var(--highlight-bg);
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+/* Speaker names and dialogue in drama translation */
+.drama-translation-section .speaker-name {
+  font-weight: bold;
+  color: var(--ink-blue);
+  cursor: pointer;
+  transition: all 0.2s ease;
+  border-radius: 4px;
+  padding: 0.125rem 0;
+  margin: 1rem 0 0.5rem 0;
+  display: block;
+}
+
+.drama-translation-section .speaker-name:hover {
+  background-color: var(--highlight-hover);
+}
+
+.drama-translation-section .speaker-name.highlighted {
+  background-color: var(--highlight-bg);
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.drama-translation-section .speaker-line {
+  margin-bottom: 0.75rem;
+  display: block;
+}
+
+.drama-translation-section .speaker-only {
+  margin-bottom: 0.5rem;
+  text-align: center;
+  font-weight: bold;
+  color: var(--original-accent);
+}
+
+.drama-translation-section .dialogue-line {
+  display: inline;
+}
+
+/* Responsive design */
+@media (max-width: 1024px) {
+  .drama-translation-section .translation-display {
+    font-size: 1.0625rem;
+    line-height: 1.8;
+  }
+}
+
+@media (max-width: 768px) {
+  .drama-translation-section {
+    padding: 1rem;
+  }
+  
+  .drama-translation-section .translation-display {
+    font-size: 1rem;
+    line-height: 1.7;
+  }
+  
+  .drama-translation-paragraph {
+    margin-bottom: 1.25rem;
+  }
+}
+
+@media (max-width: 480px) {
+  .drama-translation-section .translation-display {
+    font-size: 0.9375rem;
+    line-height: 1.6;
+  }
+  
+  .drama-translation-paragraph {
+    margin-bottom: 1.125rem;
+  }
+}
